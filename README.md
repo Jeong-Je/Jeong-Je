@@ -11,6 +11,7 @@
 <br />
 ![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
 ![nestjs](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## My Blog
 <a href="https://jeongje.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/myblog-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
