@@ -18,9 +18,9 @@
 <a href="https://jeongje.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/myblog-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
 ## 📒 Latest Blog Post
 
-[2023/10/04 - [C++] 알고리즘 시간 초과](https://jeongje.vercel.app/posts/post-10) <br/>
-[2023/09/25 - CORS와 SOP 이해하기](https://jeongje.vercel.app/posts/post-09) <br/>
-[2023/09/23 - [NestJS] Socket.io를 이용한 채팅앱 기본 설정](https://jeongje.vercel.app/posts/post-08) <br/>
-[2023/09/21 - 세션 / 쿠키 / JWT](https://jeongje.vercel.app/posts/post-07) <br/>
-[2023/09/13 - GraphQL 이란 ?](https://jeongje.vercel.app/posts/post-06) <br/>
-[2023/09/06 - [NestJS] Controllers / Providers / Modules](https://jeongje.vercel.app/posts/post-05) <br/>
+<a href=https://jeongje.vercel.app/posts/post-10 target='_blank'>2023/10/04 - [C++] 알고리즘 시간 초과</a><br/>
+<a href=https://jeongje.vercel.app/posts/post-09 target='_blank'>2023/09/25 - CORS와 SOP 이해하기</a><br/>
+<a href=https://jeongje.vercel.app/posts/post-08 target='_blank'>2023/09/23 - [NestJS] Socket.io를 이용한 채팅앱 기본 설정</a><br/>
+<a href=https://jeongje.vercel.app/posts/post-07 target='_blank'>2023/09/21 - 세션 / 쿠키 / JWT</a><br/>
+<a href=https://jeongje.vercel.app/posts/post-06 target='_blank'>2023/09/13 - GraphQL 이란 ?</a><br/>
+<a href=https://jeongje.vercel.app/posts/post-05 target='_blank'>2023/09/06 - [NestJS] Controllers / Providers / Modules</a><br/>
