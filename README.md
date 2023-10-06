@@ -1,22 +1,25 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=808080&height=300&section=header&text=Jeong%20Je&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
-# 💪 Skills
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-<br />
-![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
-![nestjs](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
+## 📚 Tech Stack 
 
-# ♾️ Algorithm
-### BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=castolrz)](https://solved.ac/castolrz/) <br/>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=castolrz)](https://solved.ac/castolrz/)
-# 📚 My Blog
-<a href="https://jeongje.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/myblog-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
+  ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white)
+   <br />
+  ![nodedotjs](https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=Express&logoColor=white)
+  ![nestjs](https://img.shields.io/badge/NestJS-E0234E.svg?&style=flat-square&logo=NestJS&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=flat-square&logo=nextdotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=white)
+  <br />
+  ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat-square&logo=postgresql&logoColor=white)
+  ![mysql](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
+  ![mongodb](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
+
+
+## 📝 My Blog
+<a href="https://jeongje.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/MyBlog-000000?style=flat-square&logo=nextdotjs&logoColor=white"></a>
 ### 📒 Latest Blog Post
-
 <a href=https://jeongje.vercel.app/posts/post-10 target='_blank'>2023/10/04 - [C++] 알고리즘 시간 초과</a><br/>
 <a href=https://jeongje.vercel.app/posts/post-09 target='_blank'>2023/09/25 - CORS와 SOP 이해하기</a><br/>
 <a href=https://jeongje.vercel.app/posts/post-08 target='_blank'>2023/09/23 - [NestJS] Socket.io를 이용한 채팅앱 기본 설정</a><br/>
