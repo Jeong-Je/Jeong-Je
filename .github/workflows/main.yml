@@ -37,4 +37,5 @@ jobs:
         git config --local user.email "jeongjeson656@gmail.com"
         git config --local user.name "Jeong-Je"
         git commit -m "Updating Blog Posts"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/Jeong-Je/Jeong-Je.git
         git push
