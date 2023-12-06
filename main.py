@@ -9,6 +9,7 @@ markdown_text = """
 
 ## 📝 My Blog
 <a href="https://jeongje.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/MyBlog-000000?style=flat-square&logo=nextdotjs&logoColor=white"></a>
+
 ### 📒 Latest Blog Post
 """  # list of blog posts will be appended here
 
