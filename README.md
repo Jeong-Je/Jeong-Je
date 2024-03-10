@@ -5,9 +5,5 @@
 <a href="https://jeongje.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/내 블로그-000000?style=flat&logo=nextdotjs&logoColor=white"></a>
 
 ### 📒 Latest Blog Post
-<a href=https://jeongje.vercel.app/posts/posts/post-20 target='_blank'>2024/02/22 - [디자인패턴] 싱글톤(Singleton)</a><br/>
-<a href=https://jeongje.vercel.app/posts/posts/post-19 target='_blank'>2024/01/26 - [GIT] 명령어 정리 - ③ (코드 되돌리기)</a><br/>
-<a href=https://jeongje.vercel.app/posts/posts/post-18 target='_blank'>2024/01/25 - [GIT] 명령어 정리 - ② (branch와 merge)</a><br/>
-<a href=https://jeongje.vercel.app/posts/posts/post-17 target='_blank'>2024/01/24 - [GIT] 명령어 정리 - ① (시작하기)</a><br/>
-<a href=https://jeongje.vercel.app/posts/posts/post-16 target='_blank'>2024/01/06 - [JWT] Refresh and Access Tokens</a><br/>
-<a href=https://jeongje.vercel.app/posts/posts/post-15 target='_blank'>2023/11/28 - Intel 문법과 AT&T 문법</a><br/>
+<a href=https://jeongje.vercel.app/posts/blog/post-02 target='_blank'>2023/08/30 - 테스트 파일 2</a><br/>
+<a href=https://jeongje.vercel.app/posts/blog/post-01 target='_blank'>2023/08/30 - 테스트 파일</a><br/>
