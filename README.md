@@ -6,4 +6,4 @@
 
 ### 📒 Latest Blog Post
 <a href=https://jeongje.vercel.app/posts/blog/post-02 target='_blank'>2023/08/30 - 테스트 파일 2</a><br/>
-<a href=https://jeongje.vercel.app/posts/blog/post-01 target='_blank'>2023/08/30 - 테스트 파일</a><br/>
+<a href=https://jeongje.vercel.app/posts/blog/post-01 target='_blank'>2024/03/14 - 커널과 인터페이스 (Kernel & Interface)</a><br/>
