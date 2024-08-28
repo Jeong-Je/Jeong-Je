@@ -5,9 +5,9 @@
 <a href="https://jeongje.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/내 블로그-000000?style=flat&logo=nextdotjs&logoColor=white"></a>
 
 ### 📒 Latest Blog Post
+<a href=https://jeongje.vercel.app/blog/post-29 target='_blank'>2024/08/27 - [Reversing.kr] CSHARP</a><br/>
 <a href=https://jeongje.vercel.app/blog/post-28 target='_blank'>2024/08/25 - [Reversing.kr] CSHOP</a><br/>
 <a href=https://jeongje.vercel.app/blog/post-27 target='_blank'>2024/08/23 - [Reversing.kr] Twist1</a><br/>
 <a href=https://jeongje.vercel.app/blog/post-26 target='_blank'>2024/08/16 - [Reversing.kr] Ransomware</a><br/>
 <a href=https://jeongje.vercel.app/blog/post-25 target='_blank'>2024/08/16 - [Reversing.kr] Direct3D FPS</a><br/>
 <a href=https://jeongje.vercel.app/blog/post-24 target='_blank'>2024/08/15 - [Reversing.kr] Position</a><br/>
-<a href=https://jeongje.vercel.app/blog/post-23 target='_blank'>2024/08/15 - [Reversing.kr] Replace</a><br/>
