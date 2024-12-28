@@ -5,9 +5,9 @@
 <a href="https://jeongje.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/내 블로그-000000?style=flat&logo=nextdotjs&logoColor=white"></a>
 
 ### 📒 Latest Blog Post
+<a href=https://jeongje.vercel.app/blog/post-37 target='_blank'>2024/12/27 - Quick Sort에서 pivot 설정하기</a><br/>
 <a href=https://jeongje.vercel.app/blog/post-36 target='_blank'>2024/11/08 - [VirtualBox] 외부 네트워크에서 SSH로 CentOS 접속하기</a><br/>
 <a href=https://jeongje.vercel.app/blog/post-35 target='_blank'>2024/11/08 - 토렌트(torrent) 시스템의 원리</a><br/>
 <a href=https://jeongje.vercel.app/blog/post-34 target='_blank'>2024/10/12 - DES 대칭키 암호화 알고리즘</a><br/>
 <a href=https://jeongje.vercel.app/blog/post-33 target='_blank'>2024/10/11 - RSA 공개키 암호화 알고리즘</a><br/>
 <a href=https://jeongje.vercel.app/blog/post-32 target='_blank'>2024/08/30 - [Reversing.kr] PEPassword</a><br/>
-<a href=https://jeongje.vercel.app/blog/post-31 target='_blank'>2024/08/28 - LoadLibraryA()와 GetProcAddress() 함수</a><br/>
